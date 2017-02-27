@@ -1,5 +1,5 @@
-# ppl-assignment-AnkitSinghBisen
-ppl-assignment-AnkitSinghBisen created by GitHub Classroom <br />
+# PPL-Assignment-AnkitSinghBisen
+PPL-Assignment-AnkitSinghBisen created by GitHub Classroom <br />
 #Ankit Singh Bisen (**ITM2015009**)
 
 ##Build System:
