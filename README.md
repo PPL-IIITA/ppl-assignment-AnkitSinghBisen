@@ -7,7 +7,7 @@ PPL-Assignment-AnkitSinghBisen created by GitHub Classroom .<br />
 >OS type 64bit.
 
 ##Command for Terminal in Linux:
-Note: All the codes submitted are tested on  linux"
+Note: All the codes submitted are tested on  linux.
 >bash PPLQ1.sh        (in folder Question1, for Question 1) .<br />
 >bash PPLQ2.sh        (in folder Question2, for Question 2) .<br />
 
