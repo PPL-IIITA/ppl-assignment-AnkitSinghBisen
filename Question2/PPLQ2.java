@@ -71,14 +71,15 @@ public class PPLQ2 {
         //Sorting couples in Ascending order of happiness and compatibility.
         KHappyCompat.sortcouples(happiness, compatibility, girls, a);
 
+        int k=a;          // Set k for any given value.
         //Printing k most happy and compatible couples
-        System.out.println("list of couples in descending order of Happiness is :");
-        for (i = 0; i < a; i++) {
+        System.out.println("list of K most happy couples in descending order of Happiness is :");
+        for (i = 0; i < k; i++) {
             System.out.println("\t" + "Boy" + happiness[i][0] + " and " + "girl" + happiness[i][1]);
         }
 
-        System.out.println("list of couples in descending order of Compatibility is :");
-        for (i = 0; i < a; i++) {
+        System.out.println("list of K most compatible couples in descending order of Compatibility is :");
+        for (i = 0; i < k; i++) {
             System.out.println("\t" + "Boy" + compatibility[i][0] + " and " + "girl" + compatibility[i][1]);
         }
 
