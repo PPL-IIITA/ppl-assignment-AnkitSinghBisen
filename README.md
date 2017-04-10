@@ -16,7 +16,7 @@ Note: All the codes submitted are tested on  linux.
 >Provided as pdf/jpeg file in corresponding question folder. 
 
 ##Documentation :
->Provided as pdf file in corresponding question folder. 
+>Provided as pdf/HTML file in corresponding question folder. 
 
 ##Tools used:
 >NetBeans IDE 8.1 java version "1.8.0_121" for code. <br />
