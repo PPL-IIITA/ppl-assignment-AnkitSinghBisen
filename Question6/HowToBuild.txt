@@ -6,4 +6,4 @@ To execute, make sure you have to build the file first.
 then run command
 >> java PPLQ6
 
-As the CSv is generated Randomly , So run multiple times to get a better results.
+As the CSV is generated Randomly , So run multiple times to get a better results.
